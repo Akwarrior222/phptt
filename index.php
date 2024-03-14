@@ -1,7 +1,7 @@
 <?php
 
 // Set up server variables
-$host = '127.0.0.1';
+$host = '3.104.64.37';
 $port = 4000;
 
 // Create a TCP/IP socket
